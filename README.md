@@ -9,7 +9,7 @@
 
 [👉 在线演示](https://your-demo-url.vercel.app) | [📚 完整文档](/docs) | [💻 开发指南](.github/CONTRIBUTING.md)
 
-![界面截图](/docs/screenshot.png)
+![界面截图](/docs/screenshot.jpg)
 
 ## ✨ 核心特性
 
