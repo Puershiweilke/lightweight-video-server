@@ -5,8 +5,16 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0-blue)](https://nodejs.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 
+大白话版：  
+这是个什么项目？​​ 
+就是一个能让你在自家电脑上搭个私人视频网站的小工具，相当于给你的电影库做个网页版目录。不需要搞数据库那些复杂的玩意，解压就能用。 
+​​干什么用的？​​ 
+家里电视/手机/平板想看自己存的电影，不用拿U盘拷来拷去  
+办公室想共享培训视频，不开某度网盘会员也能快速访问  
+放在老电脑或树莓派上当简易家庭影院  
+
+正式： 
 专为个人媒体库设计的轻量化视频服务解决方案，无需数据库，开箱即用  
-可在局域网或公网环境下极速部署，可将本机的视频自动共享到同环境下的所有设备（带浏览器）
 
 [📚 完整文档](/docs) | [💻 开发指南](.github/CONTRIBUTING.md)
 
