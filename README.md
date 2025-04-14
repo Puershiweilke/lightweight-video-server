@@ -7,7 +7,7 @@
 
 专为个人媒体库设计的轻量化视频服务解决方案，无需数据库，开箱即用
 
-[👉 在线演示](https://your-demo-url.vercel.app) | [📚 完整文档](/docs) | [💻 开发指南](.github/CONTRIBUTING.md)
+[📚 完整文档](/docs) | [💻 开发指南](.github/CONTRIBUTING.md)
 
 ![界面截图](/docs/screenshot.jpg)
 
