@@ -5,7 +5,7 @@
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0-blue)](https://nodejs.org/)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](.github/CONTRIBUTING.md)
 
-专为个人媒体库设计的轻量化视频服务解决方案，无需数据库，开箱即用
+专为个人媒体库设计的轻量化视频服务解决方案，无需数据库，开箱即用。
 可在局域网或公网环境下极速部署，可将本机的视频自动共享到同环境下的所有设备（带浏览器）
 
 [📚 完整文档](/docs) | [💻 开发指南](.github/CONTRIBUTING.md)
