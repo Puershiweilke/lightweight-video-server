@@ -1,0 +1,11 @@
+module.exports = {
+  port: 3000,
+  mounts: [
+    {
+      physicalPath: "D:/Video", // 替换为你的绝对路径
+      virtualPath: "/videos0"
+    },
+    // 可添加更多路径...
+  ],
+  videoExtensions: [".mp4", ".mkv", ".avi", ".mov"] // 支持的视频格式
+};
