@@ -21,7 +21,7 @@
 
 ## 🚀 快速开始
 
-### 基础部署
+
 ```bash
 # 克隆项目
 git clone https://github.com/Puershiweilke/lightweight-video-server.git
@@ -36,6 +36,8 @@ cp config.js.example config.js
 npm run dev
 
 # 生产环境启动
+node app.js 
+# 或
 npm start
 ```
 
