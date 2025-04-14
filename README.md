@@ -85,14 +85,12 @@ module.exports = {
 
 - [API 接口说明](/docs/API_REFERENCE.md)
 - [安全部署指南](/docs/SECURITY.md)
-- [性能优化技巧](/docs/OPTIMIZATION.md)
-- [插件开发手册](/docs/PLUGIN_DEV.md)
+
 
 ## 🤝 参与贡献
 
-欢迎提交 Issue 和 PR！请先阅读：
-- [贡献者公约](.github/CONTRIBUTING.md)
-- [行为准则](.github/CODE_OF_CONDUCT.md)
+欢迎提交 Issue 和 PR：
+
 
 ## 📜 许可协议
 
